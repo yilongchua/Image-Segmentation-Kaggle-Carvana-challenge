@@ -11,7 +11,7 @@ Purpose:
 The Dataset is releatively cleaned. There are minor difference in the way the mask for wheel component for the vechicles are done.
 
 ## U-net model
-
+model weights : https://www.dropbox.com/s/it9rirddey7oxhq/Unet_256_weights.hdf5?dl=0
 
 ## Loss Function 
 As this is a image segmentation problem, the DICE Coefficient is adopted.
