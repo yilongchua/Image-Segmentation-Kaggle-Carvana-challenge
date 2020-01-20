@@ -10,6 +10,9 @@ Purpose:
 ## Dataset
 The Dataset is releatively cleaned. There are minor difference in the way the mask for wheel component for the vechicles are done.
 
+## U-net model
+
+
 ## Loss Function 
 As this is a image segmentation problem, the DICE Coefficient is adopted.
 
@@ -25,3 +28,7 @@ As this is a image segmentation problem, the DICE Coefficient is adopted.
 1. Paper  : U-Net: Convolutional Networks for Biomedical Image Segmentation
 2. Paper  : Mask R-CNN
 3. Github : https://github.com/sainathadapa/kaggle-carvana-image-masking-challenge
+4. Github : https://github.com/Walker17/carvana-car-segmentation
+5. 'RLE'  : https://www.kaggle.com/stainsby/fast-tested-rle
+
+
